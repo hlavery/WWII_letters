@@ -4,7 +4,7 @@ date: 2021-06-05T19:27:55Z
 draft: false
 weight: 1
 ---
-| ![portrait HHL](HughHLavery.jpg) |
+| ![portrait HHL](HughHLavery.jpg?height=300px) |
 |:---:|
 |*Hugh Heffron Lavery, circa 1944*|
 ![first page](HHL1.jpg)
@@ -13,6 +13,6 @@ weight: 1
 
 ![third page](HHL3.jpg)
 
-| ![1966Portrait](1966viiiHughHLavery.jpg) |
+| ![1966Portrait](1966viiiHughHLavery.jpg?height=300px) |
 |:---:|
 |*Hugh Heffron Lavery, circa 1966*|
