@@ -10,7 +10,7 @@ a static site generator that process Markdown text into HTML, avoiding
 the complexities of that language.
 
 Hugo requires a "theme," and I chose [DocDock](https://docdock.vjeantet.fr).
-DocDoc is usually used for software documentation, but I found it very 
+DocDock is usually used for software documentation, but I found it very 
 effective for organizing scanned letters and photos.
 
 The final build is done on [Fleek](https://fleek.co).
