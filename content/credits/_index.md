@@ -5,4 +5,13 @@ draft: false
 weight:  90
 ---
 
-Some credits will be added
+This website was created using [HUGO](https://gohugo.io),
+a static site generator that process Markdown text into HTML, avoiding
+the complexities of that language.
+
+Hugo requires a "theme," and I chose [DocDoc](https://docdoc.vjeantet.fr).
+DocDoc is usually used for software documentation, but I found it very 
+effective for organizing scanned letters and photos.
+
+The final build is done on [Fleek](https://fleek.co).
+
