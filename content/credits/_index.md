@@ -9,7 +9,7 @@ This website was created using [HUGO](https://gohugo.io),
 a static site generator that process Markdown text into HTML, avoiding
 the complexities of that language.
 
-Hugo requires a "theme," and I chose [DocDoc](https://docdock.vjeantet.fr).
+Hugo requires a "theme," and I chose [DocDock](https://docdock.vjeantet.fr).
 DocDoc is usually used for software documentation, but I found it very 
 effective for organizing scanned letters and photos.
 
