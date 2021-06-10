@@ -15,7 +15,7 @@ was an attorney (Cornell Law 1910) whose practice seems to have been "Family Law
 |*Hugh Samuel Lavery, circa 1930*|
 
 Hugh Samuel Lavery was married to Mary Gabrielle Heffron (1892-1941), only child of John Heffron (1847-1933) and Anna Haley (1855-1929).
-John Heffron co-owned a shirt factory in Glens Falls, and Gabrielle had a private Catholic girl's-school education. Dad's autobiography
+John Heffron co-owned a shirt factory in Glens Falls, and Gabrielle had a private Catholic finishing-school education. Dad's autobiography
 mentions that his maternal grandfather John Heffron's house was nearby, at the corner of Glen and Birch St. 
 
 | ![Gabrielle Portrait](GabrielleHeffron.jpg?height=300px) |
@@ -38,7 +38,7 @@ My father said that the Lavery family lived very comfortable lives in the 1920s,
 
 However, Hugh S Lavery died suddenly in 1935 (he was only 49 years old). My father, who had been a "clerk" in his father's law office (a job he did not enjoy at all) suddenly had to work very hard to support his mother and brothers.   
 
-He worked a state conservation job at first, cutting spruce budworm out of leaders on a tree farm. In 1937 he and his brother John Lavery (1917-1994) found jobs in the International Paper facility then in Fort Edward, NY.
+He was hired on state conservation job at first, cutting spruce budworm out of leaders on a tree farm. In 1937 he and his brother John Lavery (1917-1994) found jobs in the International Paper facility then in Fort Edward, NY.
 
 At the Fort Edward mill, Dad met Foster Doane (MIT 1920) who encouraged my dad to enroll at MIT. He started there in 1940 (he was 24 and many years out of school...it had to be a shock. He graduated in 1947 after a stint in the Army from April 1943 until he was dischared in 1946.  
 
