@@ -5,15 +5,11 @@ draft: false
 weight: 11
 ---
  
-The next letter probably was mailed from San Francisco, CA as can be inferred from the next
-letter, which was posted a few days later and with a proper location.  Evidently, the Army
-needed to get the peach harvest in and canned! Something to do while waiting for the
-inevitable westbound troop ship. Mary was, by then, at the Naval Air Station, 
-Pensacola, Florida.
+The next letter was mailed from San Francisco, CA...as inferred from a later letter with a proper location at the top.  Evidently, the Army needed to get the peach harvest in and canned!  At least, it was something to do for waiting for the inevitable westbound troop ship.  Mary was,by then, stationed at the Naval Air Station, Pensacola Fl.
 
 | ![patch](Patch.jpg?height=300px)|
 |:---:|
-|*Army Technician 4th Grade (T/4) Arm Patch*|
+|*Army Technician Fourth Grade(T/4) Patch*|
 ![page 1](img004.jpg)
 ![page 2](img005.jpg)
 ![page 3](img006.jpg)

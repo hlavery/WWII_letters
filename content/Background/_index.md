@@ -5,4 +5,4 @@ draft: false
 weight: 5
 alwaysopen: true
 ---
-Background info
+The following pages provide some background information on Hugh H Lavery.

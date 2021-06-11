@@ -16,3 +16,5 @@ weight: 1
 | ![1966Portrait](1966viiiHughHLavery.jpg?height=300px) |
 |:---:|
 |*Hugh Heffron Lavery, circa 1966*|
+
+This was written as part of a "Remembering When" class for an adult education class in Glens Falls, NY written just about two months before he died of lung cancer.
