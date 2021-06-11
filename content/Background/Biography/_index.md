@@ -40,7 +40,7 @@ However, Hugh S Lavery died suddenly in 1935 (he was only 49 years old). My fath
 
 He was hired on state conservation job at first, cutting spruce budworm out of leaders on a tree farm. In 1937 he and his brother John Lavery (1917-1994) found jobs in the International Paper facility then in Fort Edward, NY.
 
-At the Fort Edward mill, Dad met Foster Doane (MIT 1920) who encouraged my dad to enroll at MIT. He started there in 1940 (he was 24 and many years out of school...it had to be a shock. He graduated in 1947 after a stint in the Army from April 1943 until he was dischared in 1946.  
+At the Fort Edward mill, Dad met Foster Doane (MIT 1920) who encouraged my dad to enroll at MIT. He started there in 1940 (he was 26 and many years out of school...it had to be a shock. He graduated in 1947 after a stint in the Army from April 1943 until he was dischared in 1946.  
 
 He met my mother, Mary Potter, by accident on her last night (2 May 1944) as a volunteer hostess at the Philadelphia "Stage Door Canteen" (her day job was typing for the Securities and Exchange Commission, 
 which had relocated to Philadelphia from DC for the duration of the war.) She had just enlisted in the WAVES and entered the service in June 1944. She was discharged from the WAVES in February 1946.  
