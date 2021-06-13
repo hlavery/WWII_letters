@@ -15,7 +15,7 @@ was an attorney (Cornell Law 1910) whose practice seems to have been "Family Law
 |*Hugh Samuel Lavery, circa 1930*|
 
 Hugh Samuel Lavery was married to Mary Gabrielle Heffron (1892-1941), only child of John Heffron (1847-1933) and Anna Haley (1855-1929).
-John Heffron co-owned a shirt factory in Glens Falls, and Gabrielle had a private Catholic finishing-school education. Dad's autobiography
+John Heffron co-owned a shirt factory in Glens Falls, and Gabrielle Heffron attended Glens Falls Academy and then continued on at Mt. St. Vincent's Academy (now College) in New York City. Dad's autobiography
 mentions that his maternal grandfather John Heffron's house was nearby, at the corner of Glen and Birch St. 
 
 | ![Gabrielle Portrait](GabrielleHeffron.jpg?height=300px) |
