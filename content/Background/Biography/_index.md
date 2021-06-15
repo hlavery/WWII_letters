@@ -15,7 +15,7 @@ was an attorney (Cornell Law 1910) whose practice seems to have been "Family Law
 |*Hugh Samuel Lavery, circa 1930*|
 
 Hugh Samuel Lavery was married to Mary Gabrielle Heffron (1892-1941), only child of John Heffron (1847-1933) and Anna Haley (1855-1929).
-John Heffron co-owned a shirt factory in Glens Falls, and Gabrielle Heffron attended Glens Falls Academy and then continued on at Mt. St. Vincent's Academy (now College) in New York City. Dad's autobiography
+John Heffron co-owned a shirt factory in Glens Falls, and Gabrielle Heffron attended Glens Falls Academy and then continued on at Mount Saint Vincent's Academy (now College) in New York City. Dad's autobiography
 mentions that his maternal grandfather John Heffron's house was nearby, at the corner of Glen and Birch St. 
 
 | ![Gabrielle Portrait](GabrielleHeffron.jpg?height=300px) |
@@ -43,7 +43,9 @@ He was hired on state conservation job at first, cutting spruce budworm out of l
 At the Fort Edward mill, Dad met Foster Doane (MIT 1920) who encouraged my dad to enroll at MIT. He started there in 1940 (he was 26 and many years out of school...it had to be a shock. He graduated in 1947 after a stint in the Army from April 1943 until he was dischared in 1946.  
 
 He met my mother, Mary Potter, by accident on her last night (2 May 1944) as a volunteer hostess at the Philadelphia "Stage Door Canteen" (her day job was typing for the Securities and Exchange Commission, 
-which had relocated to Philadelphia from DC for the duration of the war.) She had just enlisted in the WAVES and entered the service in June 1944. She was discharged from the WAVES in February 1946.  
+which had relocated to Philadelphia from DC for the duration of the war.) She had just enlisted in the WAVES and entered the service in June 1944. She was discharged from the WAVES in February 1946. 
+
+What was Dad doing in Philadelphia at that time? Apparently, he was enrolled at an Officer Candidate School, possibly connected with UPenn, but "washed out" due to a bad stutter he had at the time (which he later worked out with therapy from a speech pathologist).  The OCS wash-out is mentioned later in the letters. 
  
 The letters preserved here were "courting" letters, as they finally got married in 1947 after Dad finished up at MIT.
 
