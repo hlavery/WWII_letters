@@ -3,7 +3,7 @@ title: "Home"
 date: 2021-06-05T19:05:17Z
 draft: false
 ---
-These World War II letters from my Dad, Hugh Heffron Lavery, to his future wife are most likely of interest because of their rather detailed descriptions of Okinawa and of Army life in general.  
+These World War II letters from my Dad, Hugh Heffron Lavery, to his future wife are most likely of interest because of their detailed descriptions of Okinawa and of Army life in general.  
 
 I composed an earlier blog about my Mom's relatives titled [Gladys Potter's Family](http://hlavery.org) which can provide further background information.  
 
