@@ -4,7 +4,6 @@ date: 2021-1-08T19:27:55Z
 draft: false
 weight: 20
 ---
- {{% alert theme="info" %}} xx {{% /alert %}}
 
 ![page 1](img046.jpg)
 ![page 2](img047.jpg)
