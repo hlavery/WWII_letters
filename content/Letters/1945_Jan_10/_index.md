@@ -10,8 +10,3 @@ weight: 21
 ![page 2](img051.jpg)
 ![page 3](img052.jpg)
 
-| ![patch](img053.jpg?height=300px)|
-|:---:|
-|*Army Life even in Honolulu (fair use for genealogy*|
-
-
