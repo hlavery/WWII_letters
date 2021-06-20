@@ -14,4 +14,4 @@ Dad is in Honolulu, and gives his impresson of the city...beautiful but very exp
 ![page 2](img026.jpg)
 ![page 3](img027.jpg)
 ![page 4](img028.jpg)
-![page 5](img019.jpg)
+

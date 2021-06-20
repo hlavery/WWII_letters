@@ -29,7 +29,7 @@ urban renewal in the 1980's and there are no longer "high curbs" in that area. S
 |:---:|
 |*Samuel Lavery, circa 1910*|
 
-Samuel Lavery had inherited a large farm from his paternal uncle, Hugh Lavery (1811-1884), who was married but died without heirs, by way of his (Samuel's) father John Lavery (1820-1885). "Uncle" Hugh and his brother John were from Magheralin, County Down, Ireland and fled the infamous potato famine, together with their mother, in 1836-1837. Their father, John, had died in the Great Hunger.  "Uncle" Hugh had a skilled trade (as a wagon and carriage maker) and invested his spare cash in land and buildings.
+Samuel Lavery had inherited a large farm from his paternal uncle, Hugh Lavery (1811-1884), who was married but died without heirs, by way of his (Samuel's) father John's estate (1820-1885). "Uncle" Hugh and his brother John were from Magheralin, County Down, Ireland and fled the infamous potato famine, together with their mother, in 1836-1837. Their father, John, had died in the Great Hunger.  "Uncle" Hugh had a skilled trade (as a wagon and carriage maker) and invested his spare cash in land and buildings.
 
 Samuel seems to have lived rather well by selling off the land over time....a large fraction of Crandall Park in Glens Falls was once Lavery land.
 Samuel was also remarkably litigious, even at one point filing a suit against his own mother over posession of various carriages and sleighs.  I suspect that Hugh S Lavery's legal practice was pre-ordained, as it were.
