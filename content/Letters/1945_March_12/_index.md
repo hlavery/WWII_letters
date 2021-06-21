@@ -13,6 +13,6 @@ weight: 24
 
 | ![John_and_Phil](img067.jpg?height=300px)|
 |:---:|
-|*Dad's brothers John Lavery and Phillip Lavery (at right, soldier with cigarette not id'd.*|
+|*Dad's brothers John Lavery and Phillip Lavery (Phil on the right, soldier with cigarette not id'd.)*|
 
 
