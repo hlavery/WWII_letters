@@ -12,9 +12,9 @@ weight: 28
 ![page 4](img082.jpg)
 
 
-| ![houses](img82.jpg?height=200px)|
+| ![houses](img82.jpg?height=150px)|
 |:---:|
-|*Glens Falls Homes...Samuel Lavery house (perhaps)...John Heffron house...Charlotte St Duplex (the RH one)|
+|*Glens Falls Homes...Samuel Lavery house (perhaps)...John Heffron house...10 1/2 Charlotte St Duplex (the RH one...$25/mo)|
 
 
 
