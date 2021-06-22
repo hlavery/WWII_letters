@@ -23,8 +23,7 @@ mentions that his maternal grandfather John Heffron's house was nearby, at the c
 |*Gabrielle Heffron Lavery, circa 1930*|
 
 The Lavery family lived with Hugh S. Lavery's father, Samuel Lavery (1850-1928), in his house on 
-upper Glen Street, Queensbury NY.  My father's autobiography mentions a "high curb" in the area, but the house fell to 
-urban renewal in the 1980's and there are no longer "high curbs" in that area. Samuel was the widower of Bridget Falvey (1856-1911).  She was not alive at the time of my father's birth.
+upper Glen Street, Queensbury NY.  My father's autobiography mentions a "high curb" in the area, and there are still several large houses there beyond such a  curb, butI am not sure which is which. Samuel was the widower of Bridget Falvey (1856-1911).  She was not alive at the time of my father's birth.
 | ![Portrait Samuel Lavery](SamuelLavery.jpg?height=300px)
 |:---:|
 |*Samuel Lavery, circa 1910*|
