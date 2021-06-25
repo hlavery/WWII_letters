@@ -8,12 +8,6 @@ weight: 32
 
 ![page 1](img096.jpg)
 ![page 2](img097.jpg)
-![page 3](img098.jpg)
-
-| ![Wave pay](WAVEpay.jpg)|
-|:--:|
-|*Enlistment pay, WAVES, circa 1944*|
-
-
+![page 3](img099.jpg)
 
 
