@@ -6,6 +6,4 @@ weight: 32
 ---
 ![page 1](img096.jpg)
 ![page 2](img097.jpg)
-![page 3](img099.jpg)
-
-
+![page 3](img098.jpg)
