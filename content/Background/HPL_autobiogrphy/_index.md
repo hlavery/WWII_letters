@@ -21,4 +21,4 @@ This was written as part of a "Remembering When" class for an adult education cl
 
 | ![obit  HHL](HHLObit.jpg?height=450px) |
 |:---:|
-|*Hugh Heffron Lavery obituaty, Glens Falls Post Star (NY) December 28, 1978*|
+|*Hugh Heffron Lavery obituary, Glens Falls "Post Star" (NY) December 28, 1978*|
