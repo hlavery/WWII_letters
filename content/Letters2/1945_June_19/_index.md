@@ -6,6 +6,7 @@ weight: 32
 ---
  {{% alert theme="info" %}} 1945, back .) {{% /alert %}}
  
+
 ![page 1](img096.jpg)
 ![page 2](img097.jpg)
 ![page 3](img098.jpg)
