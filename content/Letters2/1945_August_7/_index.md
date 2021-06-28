@@ -11,9 +11,9 @@ weight: 36
 ![page 3](img113.jpg)
 
 
-| ![Okinawa](img114.jpg?height=300px)|
+| ![Okinawa](img114.jpg?height=400px)|
 |:---:|
-|*Okinawan "turtleback" tomb.  Remarkably well-preserved "Omega-shaped" protective well to keep away the three ill winds.*|
+|*Okinawan "turtleback" tomb.  Remarkably well-preserved "Omega-shaped" protective wall to keep away the three ill winds.*|
 
 
 | ![Yen](img115.jpg?height=300px)|
