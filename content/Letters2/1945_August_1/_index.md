@@ -4,16 +4,16 @@ date: 2021-6-28T20:27:55Z
 draft: false
 weight: 35
 ---
- {{% alert theme="info" %}}Dad has heard that soldiers are getting home from the European Theater of Operations (ETO), but the Pacific war goes on and, with few "points" accrued, Dad expects a long stay.  After the War, he plans to finish his last semester at "Tech" (MIT) and maybe propose to someone. {{% /alert %}}
+ {{% alert theme="info" %}}Censorship has been reduced, at least to the extent of describing Okinawa as "Ruykyus Retto." Dad provides an interesting description of the Okinawan residents. {{% /alert %}}
 
 ![page 1](img106.jpg)
 ![page 2](img107.jpg)
 ![page 3](img108.jpg)
 ![page 4](img109.jpg)
 
-| ![Okinawa](img 110.jpg?height=300px)|
+| ![Okinawa](img110.jpg?height=300px)|
 |:---:|
-|*Okinawa scenes, Dad in trash, Dad and unidentified soldier at tent*|
+|*Okinawa scenes, Dad in trash can with Okinawa scene, Dad and unidentified soldier at tent, possibly in a "cane field"*|
 
 
 
