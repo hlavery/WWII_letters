@@ -2,7 +2,7 @@ baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Letters from World War II"
+title = "World War II of Hugh H. Lavery"
 theme = "docdock"
 #themesdir = "../.."
 pygmentsCodeFences = true
