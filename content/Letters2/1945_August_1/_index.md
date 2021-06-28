@@ -13,7 +13,7 @@ weight: 35
 
 | ![Okinawa](img110.jpg?height=300px)|
 |:---:|
-|*Okinawa scenes, Dad in trash can with Okinawa scene, Dad and unidentified soldier at tent, possibly in a "cane field"*|
+|*Okinawa scenes, Dad in trash can with camp background, Dad and unidentified soldier at tent, possibly in a "cane field"*|
 
 
 
