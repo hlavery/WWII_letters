@@ -13,7 +13,7 @@ weight: 36
 
 | ![Okinawa](img114.jpg?height=400px)|
 |:---:|
-|*Okinawan "turtleback" tomb.  Remarkably well-preserved "Omega-shaped" protective wall to keep away the three ill winds.*|
+|*An Okinawan "turtleback" or *kamekobaka* tomb with a remarkably well-preserved "Omega-shaped" protective wall as *feng shui* to guard ancestors' *qi*. The house-like structures are also *Haka*-style tombs.  The wartime use of these tombs by the Okinawans is movingly told in the novella "Turtleback Tombs" by Oshiro Tatsuhiro (1966) available in translation in "Southern Exposure - Modern Japanese Literature from Okinawa (Molasky and Rabson, 2000)*|
 
 
 | ![Yen](img115.jpg?height=300px)|
