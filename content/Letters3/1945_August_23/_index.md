@@ -13,7 +13,7 @@ weight: 38
 ![page 3](img123.jpg)
 ![page 4](img124.jpg)
 
-| ![OkinawaMap](OkinawaBattleMap.jpg?height=300px)|
+| ![OkinawaMap](OkinawaBattleMap.png?height=300px)|
 |:---:|
 |*Battle of Okinawa.  Dad's self-reported location is about 20 miles from Naha, somewhere just south of what is now Kadena AFB*|
 
