@@ -22,8 +22,3 @@ weight: 41
 |:---:|
 |*Some views of an R&R Area at Pensacola NAS*|
 
-
-| ![MaryAtBeach](MaryBeach.jpg?height=400px)|
-|:---:|
-|*Probably the beach picture Dad mentions in this letter.*|
-
