@@ -7,7 +7,7 @@ weight: 41
 
 |![DadJeep](img131.jpg?height=500px)|
 |:---:|
-|*Dad and Jeep, part of Ordnance duties, taken with a light-leaking camera but developed anyways*|
+|*Dad and Jeep, part of Army Ordnance duties, taken with a light-leaking camera but developed anyways*|
 
 {{% alert theme="info" %}}With only 45 "points" accrued, Dad is still likely stuck in the Army for some months as the official targets will still be 60 in November.  I believe points accrued one per month, plus one extra per month of service abroad.  Extra for medals and dependants which Dad does not have.{{% /alert %}}
 
@@ -23,7 +23,7 @@ weight: 41
 |*Some views of an R&R Area at Pensacola NAS*|
 
 
-| ![Mary on Beach](MaryBeach.jpg?height=400px)|
+| ![MaryAtBeach](MaryBeach.jpg?height=400px)|
 |:---:|
-|*Probably the beach picture Dad mentions in this letter.|
+|*Probably the beach picture Dad mentions in this letter.*|
 
