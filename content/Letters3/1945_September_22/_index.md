@@ -5,7 +5,7 @@ draft: false
 weight: 41
 ---
 
-| !DadJeep](img131.jpg?height=400px)|
+|![DadJeep](img131.jpg?height=400px)|
 |:---:|
 |*Dad and Jeep, part of Ordnance duties, taken with a light-leaking camera but developed anyways*|
 
