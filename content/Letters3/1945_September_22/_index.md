@@ -5,7 +5,7 @@ draft: false
 weight: 41
 ---
 
-|![DadJeep](img131.jpg?height=400px)|
+|![DadJeep](img131.jpg?height=500px)|
 |:---:|
 |*Dad and Jeep, part of Ordnance duties, taken with a light-leaking camera but developed anyways*|
 
@@ -18,7 +18,7 @@ weight: 41
 ![page 4](img135.jpg)
 ![page 5](img136.jpg}
 
-| ![Pensacola sunning)(img137.jpg?height=400px)|
+| ![Pensacola sunning](img137.jpg?height=400px)|
 |:---:|
 |*Some views of an R&R Area at Pensacola NAS*|
 
