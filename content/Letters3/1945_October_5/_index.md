@@ -1,8 +1,8 @@
 ---
 title: "5 October 1945"
 date: 2021-7-05T21:27:55Z
-draft: false
-weight: 43
+draft: falsse
+weight: 45
 ---
 
 {{% alert theme="info" %}}Dad sends two snapshots; one of himself an "Pappy" Littlepage, most likle Cloys  Littlepage (1913-2001)and a second photo of Dad and a Jeep.{{% /alert %}}
