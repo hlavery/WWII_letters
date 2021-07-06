@@ -9,5 +9,5 @@ weight: 47
 
 ![page 1](img149.jpg)
 ![page 2](img150.jpg)
-![page 3](img151.jpg}
+![page 3](img151.jpg)
 
