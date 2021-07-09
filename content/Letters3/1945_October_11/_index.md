@@ -5,11 +5,11 @@ draft: false
 weight: 48
 ---
 
-{{% alert theme="info" %}}The typhoon passes and the destruction of mostly fixed up, except for the "Shops," whose tarp roofing was shredded.{{% /alert %}}
+{{% alert theme="info" %}}Typhoon "Louise" passes and the destruction is mostly fixed up, except for the "Shops," whose tarp covering  was shredded.{{% /alert %}}
 
 ![page 1](img153.jpg)
 ![page 2](img154.jpg)
 
-| ![Okinawa shop post-typhoon](OkinawaShop.jpg?height=400px)|
+| ![Okinawa shop post-typhoon](OkinawaShop.jpg?height=500px)|
 |:---:|
-|*A picture of the post-typhoon remains of the shops (photo from Cloys Littlepage's photos, courtesy of cm2texas at Ancestry.com.*|
+|*A picture of the post-typhoon remains of the shops (image from Cloys Littlepage's photos, courtesy of cm2texas at Ancestry.com.*|
