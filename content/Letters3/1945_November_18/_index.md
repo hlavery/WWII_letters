@@ -13,6 +13,6 @@ weight: 55
 ![page 4](img160.jpg)
 ![page 5](img161.jpg)
 
-| ![CloysWriting](PappyLittlepageWriting.png?height=400px)|
+| ![CloysWriting](PappyLittlepageWriting.jpg?height=400px)|
 |:---:|
 |*"Pappy" Littlepage, in the tent shared with Dad, writing something.*|
