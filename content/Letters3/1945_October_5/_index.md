@@ -19,3 +19,7 @@ weight: 45
 |*As mentioned in the letter, Dad in a Jeep adapted to Ordnance use.*|
 
 
+| ![CloysandJeep](LittlepageJeep.jpg?height=400px)|
+|:---:|
+|*Another picture of the Jeep, this time with "Pappy" Littlepage at the wheel (photo courtesy of Cloys' niece, cm2texas from Ancestry.com.*|
+

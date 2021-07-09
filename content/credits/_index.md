@@ -13,5 +13,6 @@ Hugo requires a "theme," and I chose [DocDock](https://docdock.vjeantet.fr).
 DocDock is usually used for software documentation, but I found it very 
 effective for organizing scanned letters and photos.
 
-The final build is done on [Fleek](https://fleek.co).
+The final build is done on [Fleek](https://fleek.co). Editing Markdown files was done in the venerable terminal editor, nano.
 
+For any questions, contact me at hlavery@comcast.net.
