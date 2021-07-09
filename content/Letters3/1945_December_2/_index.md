@@ -4,7 +4,7 @@ date: 2021-7-09T21:27:55Z
 draft: false
 weight: 56
 ---
-| ![DadRifle](DadRifle.jpg?height=400px)|
+| ![DadRifle](DadRifle.jpg?height=800px)|
 |:---:|
 |*As described in the following letter, Dad with tentmate "Skip's" Japanese 0.301 rifle*|
 
