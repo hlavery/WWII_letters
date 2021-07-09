@@ -10,3 +10,6 @@ weight: 48
 ![page 1](img153.jpg)
 ![page 2](img154.jpg)
 
+| ![Okinawa shop post-typhoon](OkinawaShop.jpg?height=400px)|
+|:---:|
+|*A picture of the post-typhoon remains of the shops (photo from Cloys Littlepage's photos, courtesy of cm2texas at Ancestry.com.*|
