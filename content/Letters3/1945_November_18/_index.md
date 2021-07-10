@@ -17,9 +17,9 @@ weight: 55
 |:---:|
 |*"Pappy" Littlepage, in the tent shared with Dad, writing something.  From the collection of Cloy's niece, cm2texas on Ancestry.com*|
 
-|Naha and Vicinity Ruins|From cm2texas'collection   |
+|Naha and Vicinity Ruins|From cm2texas' collection   |
 |---|---|
-|!Naha[](NahaRuins1.jpg)|![Naha](NahaRuins2.jpg)|
-|!Naha[](NahaRuins3.jpg)|![Naha Shop Ruins](NahaShopRuins.jpg)|
+|![Naha](NahaRuins1.jpg)|![Naha](NahaRuins2.jpg)|
+|![Naha](NahaRuins3.jpg)|![Naha Shop Ruins](NahaShopRuins.jpg)|
 |![Naha Harbor](NahaHarborRuins.jpg)|![Japanese shore gun](JapaneseBigGun.jpg)|
 |![Remains of large Okinawan house](OkinawanHouse.jpg)|   |
