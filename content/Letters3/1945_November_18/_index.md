@@ -15,4 +15,10 @@ weight: 55
 
 | ![CloysWriting](PappyLittlepageWriting.jpg?height=400px)|
 |:---:|
-|*"Pappy" Littlepage, in the tent shared with Dad, writing something.*|
+|*"Pappy" Littlepage, in the tent shared with Dad, writing something.  From the collection of Cloy's niece, cm2texas on Ancestry.com*|
+
+|   |   |
+|---|---|
+|![](NahaRuins1.jpg)|![](NahaRuins2.jpg)|
+|![](NahaRuins3.jpg)|![](NahaShopRuins.jpg)|
+|![](NahaHarborRuins.jpg)|![](JapaneseBigGun.jpg)|

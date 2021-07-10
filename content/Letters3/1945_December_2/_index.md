@@ -4,9 +4,9 @@ date: 2021-7-09T21:27:55Z
 draft: false
 weight: 56
 ---
-| ![DadRifle](DadRifle2.jpg?height=800px)|
+| ![DadRifle](DadRifle2.jpg?height=400px)|
 |:---:|
-|*As described in the following letter, Dad with tentmate "Skip's" Japanese 0.301 rifle*|
+|*As described in the following letter, Dad with tentmate "Skip's" Japanese 0.301 rifle. Original image size 54mm x 80 mm.*|
 
 ![page 1](img162.jpg)
 ![page 2](img163.jpg)
