@@ -17,7 +17,7 @@ weight: 55
 |:---:|
 |*"Pappy" Littlepage, in the tent shared with Dad, writing something.  From the collection of Cloy's niece, cm2texas on Ancestry.com*|
 
-|   |   |
+|Naha and Vicinity Ruins|   |
 |---|---|
 |![](NahaRuins1.jpg)|![](NahaRuins2.jpg)|
 |![](NahaRuins3.jpg)|![](NahaShopRuins.jpg)|
