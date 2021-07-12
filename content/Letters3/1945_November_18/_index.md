@@ -5,7 +5,7 @@ draft: false
 weight: 55
 ---
 
-{{% alert theme="info" %}}Dad goes with some friends for a drive around Okinawa, sees much destruction{{% /alert %}}
+{{% alert theme="info" %}}Extreme noise in the tent as "Pappy" Littlepage works on getting maximum volume from his newly-build 14-tube radio (fourteen!)while "Skip" goes after some project with an electric drill. Dad then goes with a friend  for a drive around Okinawa, and sees much destruction{{% /alert %}}
 
 ![page 1](img157.jpg)
 ![page 2](img158.jpg)
