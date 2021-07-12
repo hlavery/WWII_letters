@@ -5,7 +5,7 @@ draft: falsse
 weight: 45
 ---
 
-{{% alert theme="info" %}}Dad sends two snapshots; one of himself and "Pappy" Littlepage, most likely Cloys Littlepage (1913-2001), and a second photo of Dad and a Jeep.{{% /alert %}}
+{{% alert theme="info" %}}Dad sends two snapshots; one of himself and "Pappy" Littlepage, most likely Cloys Littlepage (1913-2001), and a second photo of Dad and a Jeep. The cooling breezes Dad reports in this letter turn out to be the leading edge of Typhoon "Louise", which will knock the tent and "Shops" (and much of the rest of Okinawa) flat on October 9, 1945.{{% /alert %}}
 
 ![page 1](img145.jpg)
 ![page 2](img146.jpg)
