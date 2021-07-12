@@ -22,4 +22,4 @@ weight: 55
 |![Naha](NahaRuins1.jpg)|![Naha](NahaRuins2.jpg)|
 |![Naha](NahaRuins3.jpg)|![Naha Shop Ruins](NahaShopRuins.jpg)|
 |![Naha Harbor](NahaHarborRuins.jpg)|![Japanese shore gun](JapaneseBigGun.jpg)|
-|![Remains of large Okinawan house](OkinawanHouse.jpg)|   |
+|![Remains of large Okinawan house](OkinawanHouse.jpg)|![Damaged US Tank}(BrokenTank.jpg) |
