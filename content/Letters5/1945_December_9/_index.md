@@ -4,10 +4,13 @@ date: 2021-7-13T21:27:55Z
 draft: false
 weight: 57
 ---
+{{% alert theme ="info" %}}Dad spent his evening on C.Q.(Charge of Quarters, or assigned work on of-duty hours) typing out the epic which follows, authored by someone in the Inspector General's office, Okinawa {{% /alert %}}
 
 ![page 1](img167.jpg)
 ![page 2](img168.jpg)
 ![page 3](img169.jpg)
+
+{{% alert theme ="danger" %}} Dad typed out the following, with some moderation of "Army" talk, but the "Rubyiat"  still contains stuff offensive to contemporary sensibilities.  You are warned!{{% /alert %}}
 
 ![page 1](img170.jpg)
 ![page 2](img171.jpg)
