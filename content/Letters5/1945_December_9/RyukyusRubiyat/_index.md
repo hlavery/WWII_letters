@@ -1,5 +1,5 @@
 ---
-title: "The Ryukyus Rubiyat"
+title: "The Ryukyus Rubyiat"
 date: 2021-07-13T19:05:17Z
 draft: false
 weight:  25
