@@ -4,9 +4,7 @@ date: 2021-7-03T21:27:55Z
 draft: false
 weight: 41
 --
-{{% alert theme="info" %}}With only 45 "points" accrued, Dad is still likely stuck in the Army for some months as the official targets will still be 60 in November.  I believe points accrued one per month, plus one extra per month of service abroad.  Extra for medals and dependants which Dad does not have. The middle section of this letter contains a sort-of marriage proposal as in asking about "a possiblity of your transfer to Boston" so as to  "have you not too far away" {{% /alert %}}
-
-
+{{% alert theme="info" %}}...  {{% /alert %}}
 ![page 1](img132.jpg)
 ![page 2](img133.jpg)
 ![page 3](img134.jpg)
