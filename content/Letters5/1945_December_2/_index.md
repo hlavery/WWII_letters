@@ -13,4 +13,4 @@ weight: 56
 
 | ![CloysRifle](PappyLittlepageRifle.jpg?height=400px)|
 |:---:|
-|*"Pappy" Littlepage holding what looks like the same rifle. From the collection of Cloy's niece, cm2texas on Ancestry.com, used with permission*|
+|*"Pappy" Littlepage holding what looks like the same rifle. From the collection of Cloys' niece, cm2texas on Ancestry.com, used with permission*|
