@@ -3,7 +3,8 @@ title: "22 September 1945"
 date: 2021-7-03T21:27:55Z
 draft: false
 weight: 41
---
+---
+{{% alert theme ="warning" %}}Note the rather clumsy sort-of-proposal near the middle of this letter! Dad tries to clear this up in later letters. {{% /alert %}}
 
 ![page 1](img132.jpg)
 ![page 2](img133.jpg)
