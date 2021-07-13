@@ -1,5 +1,5 @@
 ---
-title: "2 December 1945"
+title: "9 December 1945"
 date: 2021-7-13T21:27:55Z
 draft: false
 weight: 57

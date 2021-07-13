@@ -1,5 +1,5 @@
 ---
-title: "The Ryukyus Rubiyat, by unidentified author in the Inspector General's office, Okinawa"
+title: "The Ryukyus Rubiyat"
 date: 2021-07-13T19:05:17Z
 draft: false
 weight:  25
