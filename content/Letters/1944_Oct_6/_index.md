@@ -5,11 +5,11 @@ draft: false
 weight: 13
 ---
  
-Dad has arrived in Oahu, Territory of Hawaii. The photo I added here does not match what Dad describes, but this one has certainly "been through the war" in terms or wear and tear.
+Dad has arrived in Oahu, Territory of Hawaii. The photo I added here matches the image Dad describes...no hat.  The with hat version is attached to the first of these letters.
 
-| ![Mary at Penscacola NAS](img013.jpg?height=300px)|
+| ![Mary at Penscacola NAS](MaryPotter1944.jpg?height=300px)|
 |:---:|
-|*Mary Potter in front of NAS Pensacola, Florida*|
+|*Mary Potter portrait, NAS Pensacola, Florida*|
 ![page 1](img014.jpg)
 ![page 2](img015.jpg)
 ![page 3](img016.jpg)

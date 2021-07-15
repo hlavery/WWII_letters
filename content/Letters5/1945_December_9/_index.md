@@ -4,7 +4,7 @@ date: 2021-7-13T21:27:55Z
 draft: false
 weight: 57
 ---
-{{% alert theme ="info" %}}Dad spent his evening on C.Q.(Charge of Quarters, or assigned work on of-duty hours) typing out the epic which follows, authored by someone in the Inspector General's office, Okinawa {{% /alert %}}
+{{% alert theme ="info" %}}Dad spent his evening on C.Q.(Charge of Quarters, or assigned work on off-duty hours) typing out the epic which follows, which was authored by someone in the Inspector General's office, Okinawa. The version sent to Mary is clearly a carbon-copy, so this got passed along further, samizdat-style. {{% /alert %}}
 
 ![page 1](img167.jpg)
 ![page 2](img168.jpg)
