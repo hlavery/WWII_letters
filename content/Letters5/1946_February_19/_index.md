@@ -11,5 +11,18 @@ weight: 58
 
 {{% alert theme ="info" %}}Dad wrote a series of letters from the Marine Adder, which are a sort of Journal of his life on board.  They were mailed later, if at all. {{% /alert %}}
 
-
-
+![](img174.jpg)
+![](img175.jpg)
+![](img176.jpg)
+![](img177.jpg)
+![](img178.jpg)
+![](img179.jpg)
+![](img180.jpg)
+![](img181.jpg)
+![](img182.jpg)
+![](img183.jpg)
+![](img184.jpg)
+![](img185.jpg)
+![](img186.jpg)
+![](img187.jpg)
+![](img188.jpg)
